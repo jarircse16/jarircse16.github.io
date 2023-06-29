@@ -174,7 +174,7 @@
                         <h4 class="card-title mbr-fonts-style mb-4 display-1"><strong><a href="https://github.com/jarircse16?tab=repositories" class="text-primary" target="_blank">My Works</a></strong></h4>
                         <p class="mbr-text mbr-fonts-style mb-4 display-7">
                             I have built some projects in my recent vacation. You can always find them in my <a href="https://github.com/jarircse16?tab=repositories" class="text-primary" target="_blank">github repositories.</a></p>
-                        <div class="mbr-section-btn"><a class="btn btn-primary display-4" href="https://github.com/jarircse16?tab=repositories">See my Jobs</a></div>
+                        <div class="mbr-section-btn"><a class="btn btn-primary display-4" href="https://github.com/jarircse16?tab=repositories">See My Jobs</a></div>
                     </div>
                 </div>
             </div>
